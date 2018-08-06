@@ -8,3 +8,4 @@ public class PriceDetails {
 		System.out.println("Electronics=1000");
 	}
 }
+           
