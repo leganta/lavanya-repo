@@ -18,5 +18,9 @@ public static void greet() {
 	System.out.println("helloo..........");
 	System.out.println(" Hiii...lavanya");
 	System.out.println("hiii....leela");
+	System.out.println(" Hiii...lavanya");
+	System.out.println("hiii....leela");
+	System.out.println(" Hiii...lavanya");
+	System.out.println("hiii....leela");
 }
 }
